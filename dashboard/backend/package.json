@@ -1,0 +1,15 @@
+{
+  "name": "amnii-waf",
+  "version": "1.0.0",
+  "description": "WAF db",
+  "license": "ISC",
+  "author": "amani",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
