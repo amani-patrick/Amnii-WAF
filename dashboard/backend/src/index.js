@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 1234;
 const authRoutes = require('./routes/authRoutes');
 const landingRoutes = require('./routes/landing');
 
