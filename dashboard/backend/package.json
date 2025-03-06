@@ -1,15 +1,16 @@
 {
-  "name": "amnii-waf",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "WAF db",
+  "description": "",
   "license": "ISC",
   "author": "amani",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
   }
 }
